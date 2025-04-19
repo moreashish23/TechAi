@@ -1,0 +1,2 @@
+No backend dependencies required
+Pure HTML, CSS, and JS project
